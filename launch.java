@@ -1,5 +1,8 @@
 class launch{
 void m1(){
-//code
+System.out.println("hello java");
+}
+void m2(){
+System.out.println("hello java");
 }
 }
